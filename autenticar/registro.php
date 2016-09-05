@@ -36,6 +36,8 @@ if( isset($_POST['str_password2']) )
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>.:: Registrar Usuario ::. </title>
+
+  <title>.:: Registrar Prueba  ::. </title>
 		
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<!--Importar hojas de estilo -->
